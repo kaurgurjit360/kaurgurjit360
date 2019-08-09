@@ -1,41 +1,14 @@
-## Gurjit Kaur
+## This is going to be a website about me.
 
-You can use the [editor on GitHub](https://github.com/kaurgurjit360/kaurgurjit360/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### About Me
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Projects
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaurgurjit360/kaurgurjit360/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Interests
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-### Contact Me
-
-Here is my contact
+Build a personal professional homepage and host it on Github Pages
+Build a web page with the following information:
+A picture of yourself
+A brief "About Me" section introducing yourself
+A list of "Projects". Use images, describe the project, and link to github or running apps.
+List your "Interests" outside of programming
+Link to your professional networks, like Linked In
+Add anything else that you want to share professionally
+Requirements:
+You must write your own HTML files(s)
+You can use templates and bootstrap, but not auto-generators
+Host it on Github Pages using this guide: https://pages.github.com/
